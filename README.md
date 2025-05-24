@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1>I'm currently attending ASU studying Graphic Information Technology and Focusing in Graphic Design and Web Development!</h1>
-<img src="[https://www.pexels.com/photo/calm-body-of-lake-between-mountains-346529/](https://121clicks.com/wp-content/uploads/2024/09/best-top-travel-landscape-photography-19.jpg)">
+<img src="https://121clicks.com/wp-content/uploads/2024/09/best-top-travel-landscape-photography-19.jpg">
 <!--
 **designandcre8/designandcre8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
