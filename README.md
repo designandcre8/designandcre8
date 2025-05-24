@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<h1>I'm currently attending ASU studying Graphic Information Technology and Focusing in Graphic Design and Web Development!</h1>
 <!--
 **designandcre8/designandcre8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
